@@ -1,0 +1,11 @@
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\bin\Release\net8.0\Ecommerce.Web.deps.json
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\bin\Release\net8.0\Ecommerce.Web.dll
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\bin\Release\net8.0\Ecommerce.Web.pdb
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.AssemblyInfoInputs.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.AssemblyInfo.cs
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.csproj.CoreCompileInputs.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.dll
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\refint\Ecommerce.Web.dll
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\Ecommerce.Web.pdb
+C:\Users\FatihKara\source\repos\Ecommerce.Web\Ecommerce.Web\obj\Release\net8.0\ref\Ecommerce.Web.dll

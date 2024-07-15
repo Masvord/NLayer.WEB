@@ -1,0 +1,9 @@
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.csproj.AssemblyReference.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.AssemblyInfoInputs.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.AssemblyInfo.cs
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.RazorAssemblyInfo.cache
+C:\Users\FatihKara\source\repos\Ecommerce.Web\EcommerceMvc.WebUI\obj\Release\net8.0\EcommerceMvc.WebUI.RazorAssemblyInfo.cs
